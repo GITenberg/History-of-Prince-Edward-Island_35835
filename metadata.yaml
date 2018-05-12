@@ -1,0 +1,27 @@
+_repo: History-of-Prince-Edward-Island_35835
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Campbell, Duncan
+    birthdate: 1818
+    deathdate: 1886
+    gutenberg_agent_id: '37946'
+    url: http://www.gutenberg.org/2009/agents/37946
+description: ''
+gutenberg_issued: '2011-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35835'
+  lccn: 02012383
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prince Edward Island -- History'
+- !lcc 'F1001'
+title: History of Prince Edward Island
+url: http://www.gutenberg.org/ebooks/35835
